@@ -24,6 +24,7 @@
 
 - (id)initWithStyle:(UITableViewCellStyle)style reuseIdentifier:(NSString *)reuseIdentifier
 {
+    //add changes
     self = [super initWithStyle:style reuseIdentifier:reuseIdentifier];
     if (self) {
      
